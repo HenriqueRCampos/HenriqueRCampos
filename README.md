@@ -1,4 +1,4 @@
-# 🎮🕹️ Henrique de Ramos de Campos | Indie Game Developer 🕹️🎮
+## 🎮🕹️ Henrique de Ramos de Campos | Indie Game Developer 🕹️🎮
 
 <!--
 **HenriqueRCampos/HenriqueRCampos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
