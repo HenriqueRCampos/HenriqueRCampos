@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <div>
   <a href="https://github.com/HenriqueRCampos/github-readme-stats">
-    <img align="center" height="190em" src="https://github-readme-stats.vercel.app/api?username=HenriqueRCampos&show_icons=true&theme=chartreuse-dark&repo=convoychat&border_color=00fa9a"/>
+    <img align="center" height="190em" src="https://github-readme-stats.vercel.app/api?username=HenriqueRCampos&count_private=true&show_icons=true&theme=chartreuse-dark&repo=convoychat&border_color=00fa9a"/>
     <img align="center" height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueRCampos&layout=compact&theme=chartreuse-dark&repo=github-readme-stats&border_color=00fa9a"/>
   </a>
 </div>
